@@ -1,1 +1,1 @@
-cd .config && git clone https://github.com/ChenHaoNan-CN/my-neofetch.git && neofetch
+cd .config && git clone https://github.com/ChenHaoNan-CN/neofetch.git && neofetch
