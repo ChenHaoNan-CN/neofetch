@@ -88,5 +88,5 @@ yay -Rs neofetch
 
 
 ```bash
-rm -r ~/.config/neofetch && cd ~/.config && git clone https://github.com/ChenHaoNan-CN/neofetch.git && neofetch
+rm -r ~/.config/neofetch && cd ~/.config && git clone https://github.com/ChenHaoNan-CN/neofetch.git && neofetch #安装主题
 ```
